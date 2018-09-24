@@ -1,0 +1,5 @@
+movies_array = [1976, 1978, 1972, 1999]
+puts movies_array[0]
+puts movies_array[1]
+puts movies_array[2]
+puts movies_array[3]
